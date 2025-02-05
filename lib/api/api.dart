@@ -117,7 +117,7 @@ class _MyAPIAppState extends State<MyAPIApp> {
                 children: [
                   Icon(
                     Icons.gps_fixed,
-                    color: Colors.grey,
+                    color: Colors.grey,  //eiei
                   ),
                   Text(
                     '${data[0].name}',
